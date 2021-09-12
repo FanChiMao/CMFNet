@@ -1,5 +1,5 @@
 # Compound Multi-branch Feature Fusion for Real Image Restoration  
-[Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
+## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
 
 Paper:  
 

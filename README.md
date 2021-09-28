@@ -20,11 +20,12 @@ Presentation Slides:
 
 ### Deraindrop  
 <img src = "./figures/deraindrop_table.png" width="450">  
-### Dehaze  
-<img src = "./figures/dehaze_table.png" width="300">  
-### Deblur  
-<img src = "./figures/deblur_table.png" width="300">  
 
+### Dehaze  
+<img src = "./figures/dehaze_table.png" width="450">  
+
+### Deblur  
+<img src = "./figures/deblur_table.png" width="450">  
 
 ## Contact
 If you have any question, please contact qaz5517359@gmail.com  

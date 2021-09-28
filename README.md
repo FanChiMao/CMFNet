@@ -19,7 +19,11 @@ Presentation Slides:
 ## Quick Run  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run
 ```
-python demo.py --task Task_Name --input_dir path_to_images --result_dir save_images_here --weights path_to_models
+python demo.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models
+```
+Here is an example to perform Deraindrop:
+```
+python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results --weights ./pretrained_model/deraindrop_model.pth
 ```
 
 ## Results

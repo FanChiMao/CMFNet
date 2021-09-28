@@ -14,16 +14,16 @@ Presentation Slides:
 >  Our experiments show that the proposed multi-branch architecture, called CMFNet, performs competitive results on seven datasets include image deblurring, dehazing and deraindrop which are the common degradations on autonomous cars' camera.
 
 ## Network Architecture  
-![image](./figures/CMFNet.png)  
+<img src = "./figures/CMFNet.png" width="450">  
 
 ## Results
 
 ### Deraindrop  
-<img src = "./figures/deraindrop_table.png" width="900">  
+<img src = "./figures/deraindrop_table.png" width="450">  
 ### Dehaze  
-<img src = "./figures/dehaze_table.png" width="900">  
+<img src = "./figures/dehaze_table.png" width="300">  
 ### Deblur  
-<img src = "./figures/deblur_table.png" width="900">  
+<img src = "./figures/deblur_table.png" width="300">  
 
 
 ## Contact

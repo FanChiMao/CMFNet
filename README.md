@@ -27,7 +27,7 @@ Presentation Slides:
   <img src = "./figures/dehaze_table.png" width="500">
 
 - Deblur  
-  <img src = "./figures/deblur_table.png" width="500">
+  <img src = "./figures/deblur_table.png" width="750">
 
 </details>  
   

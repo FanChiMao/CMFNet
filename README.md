@@ -18,7 +18,8 @@ Presentation Slides:
 
 ## Results
 <details>  
-<summary>Performance table: </summary>   
+<summary>Performance table: </summary>  
+
 - Deraindrop  
 <img src = "./figures/deraindrop_table.png" width="500">
 

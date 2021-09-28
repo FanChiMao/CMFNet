@@ -18,15 +18,15 @@ Presentation Slides:
 
 ## Results
 <details>  
-<summary>Performance table...</summary>   
-### Deraindrop  
-<p align="center"> <img src = "./figures/deraindrop_table.png" width="500"> </p>
+<summary>Performance table: </summary>   
+- Deraindrop  
+<img src = "./figures/deraindrop_table.png" width="500">
 
-### Dehaze  
-<p align="center"> <img src = "./figures/dehaze_table.png" width="500"> </p>
+- Dehaze  
+<img src = "./figures/dehaze_table.png" width="500">
 
-### Deblur  
-<p align="center"> <img src = "./figures/deblur_table.png" width="500"> </p>
+- Deblur  
+<img src = "./figures/deblur_table.png" width="500">
 
 </details>  
   

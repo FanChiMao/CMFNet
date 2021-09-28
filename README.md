@@ -21,13 +21,13 @@ Presentation Slides:
 <summary>Performance table: </summary>  
 
 - Deraindrop  
-<img src = "./figures/deraindrop_table.png" width="500">
+  <img src = "./figures/deraindrop_table.png" width="500">
 
 - Dehaze  
-<img src = "./figures/dehaze_table.png" width="500">
+  <img src = "./figures/dehaze_table.png" width="500">
 
 - Deblur  
-<img src = "./figures/deblur_table.png" width="500">
+  <img src = "./figures/deblur_table.png" width="500">
 
 </details>  
   

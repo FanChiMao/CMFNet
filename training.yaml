@@ -4,7 +4,7 @@ GPU: [0,1,2,3]
 VERBOSE: False
 
 MODEL:
-  MODE: 'Deblur'
+  MODE: 'Deraindrop'
 
 # Optimization arguments.
 OPTIM:

@@ -16,6 +16,12 @@ Presentation Slides:
 ## Network Architecture  
 <img src = "./figures/CMFNet.png" width="750">  
 
+## Quick Run  
+To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run
+```
+python demo.py --task Task_Name --input_dir path_to_images --result_dir save_images_here --weights path_to_models
+```
+
 ## Results
 <details>  
 <summary>Performance table: </summary>  

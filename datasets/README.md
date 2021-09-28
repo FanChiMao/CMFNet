@@ -4,9 +4,13 @@
   - [train & test](https://drive.google.com/open?id=1e7R76s6vwUJxILOcAsthgDLPSnOrQ49K  )
 ## Dehaze  
 - I-Haze(train):  
+  - [train](https://data.vision.ee.ethz.ch/cvl/ntire18/i-haze/)  
 - O-Haze(train):  
+  - [train](https://data.vision.ee.ethz.ch/cvl/ntire18//o-haze/)  
 - Dense-haze(test):  
+  - [test](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/)  
 - NH-haze(test):  
+  - [test](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)  
 
 ## Deblur  
 - GoPro(train & test):  

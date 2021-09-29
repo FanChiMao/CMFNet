@@ -29,8 +29,8 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
 
   | Restoration task |     Result Tables    |
   | :--------------: | :------------------: |
-  | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="580">|
-  | Dehaze           |<img src = "./figures/dehaze_table.png" width="580">|
+  | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="500">|
+  | Dehaze           |<img src = "./figures/dehaze_table.png" width="500">|
   | Deblur           |<img src = "./figures/deblur_table.png" width="620">|
   
 </details>  

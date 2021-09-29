@@ -20,7 +20,7 @@ python demo.py --input_dir images_folder_path --result_dir save_images_here --we
 ```
 Here is an example to perform Deraindrop:
 ```
-python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results --weights ./pretrained_model/deraindrop_model.pth
+python demo.py --input_dir './demo_samples/deraindrop' --result_dir './demo_results' --weights './pretrained_model/deraindrop_model.pth'
 ```
 ## Train  
 To train the restoration models of Deraindrop, Dehaze and Deblurring. You should check the following components:  
@@ -62,8 +62,15 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
   python train.py
   ```  
   
-## Test  
-
+## Test (Evaluation)  
+To test the models of Deraindrop, Dehaze, Deblurring with ground truth, run  
+```
+python test.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models --dataset type_of_task --gpus CUDA_VISIBLE_DEVICES
+```
+Here is an example to perform Deraindrop:
+```
+python test.py --input_dir './datasets/' --result_dir './test_results/' --weights './pretrained_model/deraindrop_model.pth' --dataset deraindrop --gpus '0'
+```  
 ## Results
 <details>  
 <summary>Result Tables: </summary>  

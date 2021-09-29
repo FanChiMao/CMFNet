@@ -31,7 +31,7 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
   | :--------------: | :------------------: |
   | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="600">|
   | Dehaze           |<img src = "./figures/dehaze_table.png" width="600">|
-  | Dehaze           |<img src = "./figures/dehaze_table.png" width="600">|
+  | Deblur           |<img src = "./figures/deblur_table.png" width="620">|
   
 </details>  
 

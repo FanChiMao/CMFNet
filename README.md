@@ -53,12 +53,13 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
     SAVE_DIR: './checkpoints'           # path to save models and images
 
   ```
-
 - Dataset:  
   The preparation of dataset in more detail, see `datasets/README.md`.
 - Train:  
-
-
+  If the above path and data are all correctly setting, just simply run:  
+  ```
+  python train.py
+  ```
 ## Test  
 
 ## Results

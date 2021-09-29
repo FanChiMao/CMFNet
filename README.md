@@ -22,6 +22,44 @@ Here is an example to perform Deraindrop:
 ```
 python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results --weights ./pretrained_model/deraindrop_model.pth
 ```
+## Train  
+To train the restoration models of Deraindrop, Dehaze and Deblurring. You should check the following components:  
+- `training.yaml`:  
+  ```
+  # Training configuration
+  GPU: [0,1,2,3]
+
+  VERBOSE: False
+
+  MODEL:
+    MODE: 'Deblur'
+
+  # Optimization arguments.
+  OPTIM:
+    BATCH: 2
+    EPOCHS: 150
+    # NEPOCH_DECAY: [10]
+    LR_INITIAL: 2e-4
+    LR_MIN: 1e-6
+    # BETA1: 0.9
+
+  TRAINING:
+    VAL_AFTER_EVERY: 1
+    RESUME: False
+    TRAIN_PS: 256
+    VAL_PS: 256
+    TRAIN_DIR: './datasets/deraindrop/train'       # path to training data
+    VAL_DIR: './datasets/deraindrop/test' # path to validation data
+    SAVE_DIR: './checkpoints'           # path to save models and images
+
+  ```
+
+- Dataset:  
+  The preparation of dataset in more detail, see `datasets/README.md`.
+- Train:  
+
+
+## Test  
 
 ## Results
 <details>  

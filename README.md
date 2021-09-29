@@ -71,7 +71,7 @@ Here is an example to perform Deraindrop:
 ```
 python test.py --input_dir './datasets/' --result_dir './test_results/' --weights './pretrained_model/deraindrop_model.pth' --dataset deraindrop --gpus '0'
 ```  
-To test the PSNR and SSIM of *Deraindrop, see the `evaluation_Y.py` and run  
+To test the PSNR and SSIM of *Deraindrop*, see the `evaluation_Y.py` and run  
 ```
 python evaluation_Y.py --input_dir path_to_restored_images --gt_dir path_to_gt_images
 ```
@@ -79,7 +79,7 @@ Here is an example:
 ```
 python valuation_Y.py --input_dir './test_results/deraindrop' --gt_dir './demo_samples/deraindrop'
 ```  
-And to test the PSNR and SSIM of *Dehaze and *Deblur, see the `evaluation_RGB.m`  
+And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.m`  
 
 ## Results
 <details>  

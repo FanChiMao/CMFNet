@@ -54,12 +54,14 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
 
   ```
 - Dataset:  
-  The preparation of dataset in more detail, see `datasets/README.md`.
+  The preparation of dataset in more detail, see `datasets/README.md`.  
+  
 - Train:  
   If the above path and data are all correctly setting, just simply run:  
   ```
   python train.py
-  ```
+  ```  
+  
 ## Test  
 
 ## Results

@@ -27,21 +27,11 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
 <details>  
 <summary>Result Tables: </summary>  
 
-- Deraindrop  
-  <img src = "./figures/deraindrop_table.png" width="500">
-
-- Dehaze  
-  <img src = "./figures/dehaze_table.png" width="500">
-
-- Deblur  
-  <img src = "./figures/deblur_table.png" width="750">
-
   | Restoration task |     Result Tables    |
   | :--------------: | :------------------: |
   | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="600">|
   | Dehaze           |<img src = "./figures/dehaze_table.png" width="600">|
   | Dehaze           |<img src = "./figures/dehaze_table.png" width="600">|
-  
   
 </details>  
 

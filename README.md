@@ -46,7 +46,7 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
   | :--------------: | :------------------: | :---------------: |
   | Deraindrop       |<img src="figures/deraindrop_bf.gif" alt="deraindrop_bf" width="300" style="zoom:100%;" />|<img src="figures/deraindrop_gt.jpg" alt="deraindrop_gt" width="300" style="zoom:100%;" />|
   | Dehaze           |<img src="figures/dehaze_bf.gif" alt="dehaze_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/dehaze_gt.png" alt="dehaze_gt.png" width="300" style="zoom:100%;" />|  
-  | Dehaze           |<img src="" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|
+  | Dehaze           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/deblur_gt.png" alt="deblur_gt.png" width="300" style="zoom:100%;" />|
   
 </details>  
 

@@ -67,10 +67,16 @@ To test the models of Deraindrop, Dehaze, Deblurring with ground truth, run
 ```
 python test.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models --dataset type_of_task --gpus CUDA_VISIBLE_DEVICES
 ```
-Here is an example to perform Deraindrop:
+Here is an example to perform Deraindrop:  
 ```
 python test.py --input_dir './datasets/' --result_dir './test_results/' --weights './pretrained_model/deraindrop_model.pth' --dataset deraindrop --gpus '0'
 ```  
+To test the PSNR and SSIM of Deraindrop, run  
+```
+python evaluation_Y.py --input_dir path_to_restored_images --gt_dir path_to_gt_images
+```
+And to test the PSNR and SSIM of Dehaze and Deblur, see the `evaluation_RGB.m`  
+
 ## Results
 <details>  
 <summary>Result Tables: </summary>  

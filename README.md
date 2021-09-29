@@ -47,10 +47,19 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
   | Deraindrop       |<img src="figures/deraindrop_bf.gif" alt="deraindrop_bf" width="300" style="zoom:100%;" />|<img src="figures/deraindrop_gt.jpg" alt="deraindrop_gt" width="300" style="zoom:100%;" />|
   | Dehaze           |<img src="figures/dehaze_bf.gif" alt="dehaze_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/dehaze_gt.png" alt="dehaze_gt.png" width="300" style="zoom:100%;" />|  
   | Dehaze           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/deblur_gt.png" alt="deblur_gt.png" width="300" style="zoom:100%;" />|
-  
+
 </details>  
 
 ## Citation  
+If you use CMFNet, please consider citing:  
+```
+@inproceedings{,
+    title={},
+    author={Chi-Mao Fan, Tsung-Jung Liu, Kuan-Hsien Liu},
+    booktitle={ICLR},
+    year={2022}
+}
+```
 
 ## Contact
 If you have any question, please contact qaz5517359@gmail.com  

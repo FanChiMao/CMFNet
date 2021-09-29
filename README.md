@@ -25,7 +25,7 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
 
 ## Results
 <details>  
-<summary>Performance table: </summary>  
+<summary>Result Tables: </summary>  
 
 - Deraindrop  
   <img src = "./figures/deraindrop_table.png" width="500">
@@ -37,6 +37,19 @@ python demo.py --input_dir ./demo_samples/deraindrop --result_dir ./demo_results
   <img src = "./figures/deblur_table.png" width="750">
 
 </details>  
+
+## Visual Comparison  
+<details>  
+<summary>Visual Comparison Figures: </summary>  
   
+  | Restoration task |    Restored images   |  Ground Truth     |
+  | :--------------: | :------------------: | :---------------: |
+  | Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/105_clean.jpg" alt="arch" width="300" style="zoom:100%;" />|
+  | Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|  
+
+</details>  
+
+## Citation  
+
 ## Contact
 If you have any question, please contact qaz5517359@gmail.com  

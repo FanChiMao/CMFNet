@@ -11,7 +11,7 @@ Presentation Slides:
 > Abstract : Image restoration is a challenging and ill-posed problem which also has been a long-standing issue. However, most of learning based restoration methods are proposed to target one degradation type which means they are lack of generalization. In this paper, we proposed a multi-branch restoration model inspired from the Human Visual System (i.e., Retinal Ganglion Cells) which can achieve multiple restoration tasks in a general framework. The experiments show that the proposed multi-branch architecture, called CMFNet, has competitive performance results on four datasets, including image deblurring, dehazing and deraindrop which are very common applications for autonomous cars.
 
 ## Network Architecture  
-<img src = "./figures/CMFNet.png" width="750">  
+<img src = "https://i.ibb.co/3WRbpYv/CMFNet.png" alt="CMFNet" width="750">  
 
 ## Quick Run  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run

@@ -89,8 +89,8 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
   | :--------------: | :------------------: |
   | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="500">|
   | Dehaze           |<img src = "./figures/dehaze_table.png" width="500">|
-  | Deblur           |<img src = "./figures/deblur_table.png" width="620">|
-  
+  | Deblur           |<img src = "https://i.ibb.co/xFhGCY0/deblur-table.png" width="620">|
+
 </details>  
 
 ## Visual Comparison  
@@ -101,7 +101,7 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
   | :--------------: | :------------------: | :---------------: |
   | Deraindrop       |<img src="figures/deraindrop_bf.gif" alt="deraindrop_bf" width="300" style="zoom:100%;" />|<img src="figures/deraindrop_gt.jpg" alt="deraindrop_gt" width="300" style="zoom:100%;" />|
   | Dehaze           |<img src="figures/dehaze_bf.gif" alt="dehaze_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/dehaze_gt.png" alt="dehaze_gt.png" width="300" style="zoom:100%;" />|  
-  | Dehaze           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/deblur_gt.png" alt="deblur_gt.png" width="300" style="zoom:100%;" />|
+  | Dehaze           |<img src="https://i.ibb.co/f0NCTGQ/deblur-bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="figures/deblur_gt.png" alt="https://i.ibb.co/1JrwL1Z/deblur-gt.png" width="300" style="zoom:100%;" />|
 
 </details>  
 

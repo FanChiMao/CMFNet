@@ -87,8 +87,8 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 
   | Restoration task |     Result Tables    |
   | :--------------: | :------------------: |
-  | Deraindrop       |<img src = "./figures/deraindrop_table.png" width="500">|
-  | Dehaze           |<img src = "./figures/dehaze_table.png" width="500">|
+  | Deraindrop       |<img src = "https://i.ibb.co/MMMj75H/deraindrop-table.png" width="500">|
+  | Dehaze           |<img src = "https://i.ibb.co/wRY9Sr6/dehaze-table.png" width="500">|
   | Deblur           |<img src = "https://i.ibb.co/xFhGCY0/deblur-table.png" width="620">|
 
 </details>  

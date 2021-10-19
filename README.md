@@ -13,9 +13,16 @@ Presentation Slides:
 ## Network Architecture  
 <img src = "https://i.ibb.co/3WRbpYv/CMFNet.png" alt="CMFNet" width="750">  
 
-  | <img src = "https://i.ibb.co/FBx9QLy/UNet.png" width="400"> |  <img src = "https://i.ibb.co/W0yk5hn/MSC.png" width="400">  |  
-  | :--------------: | :------------------: |  
-  | Branch U-Net       |   Mixed Skip Connection (MSC) |  
+<table>
+  <tr>
+    <td> <img src = "https://i.ibb.co/FBx9QLy/UNet.png" width="400"> </td>
+    <td> <img src = "https://i.ibb.co/W0yk5hn/MSC.png" width="400"> </td>
+  </tr>
+  <tr>
+    <td><p align="center"><b>Branch U-Net architecture</b></p></td>
+    <td><p align="center"> <b>Mixed Skip Connection (MSC)</b></p></td>
+  </tr>
+</table>
 
 
 ## Quick Run  

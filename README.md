@@ -18,7 +18,7 @@ Presentation Slides:
     <td> <img src = "https://i.ibb.co/3WRbpYv/CMFNet.png" alt="CMFNet" width="750"> </td>  
   </tr>
   <tr>
-    <td><p align="center"><b>Network Architecture</b></p></td>
+    <td colspan="2"><p align="center"><b>Network Architecture</b></p><br></td>
   </tr>
   
   <tr>

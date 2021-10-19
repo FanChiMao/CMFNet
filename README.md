@@ -15,6 +15,13 @@ Presentation Slides:
 
 <table>
   <tr>
+    <td> <img src = "https://i.ibb.co/3WRbpYv/CMFNet.png" alt="CMFNet" width="750"> </td>  
+  </tr>
+  <tr>
+    <td><p align="center"><b>Network Architecture</b></p></td>
+  </tr>
+  
+  <tr>
     <td> <img src = "https://i.ibb.co/FBx9QLy/UNet.png" width="400"> </td>
     <td> <img src = "https://i.ibb.co/W0yk5hn/MSC.png" width="400"> </td>
   </tr>

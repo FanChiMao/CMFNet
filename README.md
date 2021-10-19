@@ -101,7 +101,7 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
   | :--------------: | :------------------: | :---------------: |
   | Deraindrop       |<img src="figures/deraindrop_bf.gif" alt="deraindrop_bf" width="300" style="zoom:100%;" />|<img src="https://i.ibb.co/L5KxZSP/105-clean.jpg" alt="deraindrop_gt" width="300" style="zoom:100%;" />|
   | Dehaze           |<img src="figures/dehaze_bf.gif" alt="dehaze_bf.gif" width="300" style="zoom:100%;" />|<img src="https://i.ibb.co/7Q5BKZS/47-gt.png" alt="dehaze_gt.png" width="300" style="zoom:100%;" />|  
-  | Dehaze           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="https://i.ibb.co/yf6d5XG/GOPR0384-11-00-000001.png" alt="https://i.ibb.co/1JrwL1Z/deblur-gt.png" width="300" style="zoom:100%;" />|
+  | Deblur           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="https://i.ibb.co/yf6d5XG/GOPR0384-11-00-000001.png" alt="https://i.ibb.co/1JrwL1Z/deblur-gt.png" width="300" style="zoom:100%;" />|
 
 </details>  
 

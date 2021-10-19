@@ -13,6 +13,11 @@ Presentation Slides:
 ## Network Architecture  
 <img src = "https://i.ibb.co/3WRbpYv/CMFNet.png" alt="CMFNet" width="750">  
 
+  | <img src = "https://i.ibb.co/FBx9QLy/UNet.png" width="400"> |  <img src = "https://i.ibb.co/W0yk5hn/MSC.png" width="400">  |  
+  | :--------------:   | :------------------:    |  
+  | Branch U-Net       |   Mixed Skip Connection |  
+
+
 ## Quick Run  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run
 ```

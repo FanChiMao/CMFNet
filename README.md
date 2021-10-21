@@ -102,7 +102,7 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 
 ## Results
 <details>  
-<summary>Result Tables: </summary>  
+<summary>Result Tables (Click to expand)</summary>  
 
   | Restoration task |     Result Tables    |
   | :--------------: | :------------------: |
@@ -114,7 +114,7 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 
 ## Visual Comparison  
 <details>  
-<summary>Visual Comparison Figures: </summary>  
+<summary>Visual Comparison Figures (Click to expand)</summary>  
 
   | Restoration task |    Restored images   |  Ground Truth     |
   | :--------------: | :------------------: | :---------------: |

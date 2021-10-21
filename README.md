@@ -123,6 +123,7 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
   | Deblur           |<img src="figures/deblur_bf.gif" alt="deblur_bf.gif" width="300" style="zoom:100%;" />|<img src="https://i.ibb.co/yf6d5XG/GOPR0384-11-00-000001.png" alt="https://i.ibb.co/1JrwL1Z/deblur-gt.png" width="300" style="zoom:100%;" />|
 
 </details>  
+** More visual results can be downloaded at [here](https://github.com/FanChiMao/CMFNet/releases).**  
 
 ## Citation  
 If you use CMFNet, please consider citing:  

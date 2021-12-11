@@ -119,14 +119,6 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 
 ## Citation  
 If you use CMFNet, please consider citing:  
-```
-@inproceedings{,
-    title={},
-    author={Chi-Mao Fan, Tsung-Jung Liu, Kuan-Hsien Liu},
-    booktitle={ICLR},
-    year={2022}
-}
-```
 
 ## Contact
-If you have any question, please contact qaz5517359@gmail.com  
+

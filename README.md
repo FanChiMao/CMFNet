@@ -1,7 +1,7 @@
 # Compound Multi-branch Feature Fusion for Real Image Restoration  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
 
-**Paper**:  
+**Paper**:  https://paperswithcode.com/paper/compound-multi-branch-feature-fusion-for-real  
 
 > Abstract : Image restoration is a challenging and ill-posed problem which also has been a long-standing issue. However, most of learning based restoration methods are proposed to target one degradation type which means they are lack of generalization. In this paper, we proposed a multi-branch restoration model inspired from the Human Visual System (i.e., Retinal Ganglion Cells) which can achieve multiple restoration tasks in a general framework. The experiments show that the proposed multi-branch architecture, called CMFNet, has competitive performance results on four datasets, including image deblurring, dehazing and deraindrop which are very common applications for autonomous cars.
 
@@ -27,6 +27,12 @@
 
 
 ## Quick Run  
+You can simply demo on the space of Hugging Face:  
+- [Deraindrop](https://huggingface.co/spaces/52Hz/CMFNet_deraindrop)  
+- [Deblur](https://huggingface.co/spaces/52Hz/CMFNet_deblurring)  
+- [Dehaze](https://huggingface.co/spaces/52Hz/CMFNet_dehazing)  
+
+Or test on local enviroment:  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run
 ```
 python demo.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models

@@ -32,7 +32,7 @@ You can simply demo on the space of Hugging Face:
 - [Deblur](https://huggingface.co/spaces/52Hz/CMFNet_deblurring)  
 - [Dehaze](https://huggingface.co/spaces/52Hz/CMFNet_dehazing)  
 
-Or test on local enviroment:  
+Or test on local environment:  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run
 ```
 python demo.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models

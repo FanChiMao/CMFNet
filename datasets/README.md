@@ -21,7 +21,7 @@
 
 
 ## Preprocess  
-You have to crop the high-resolution training images to fixed size training patches by `.py`.  
+You have to crop the high-resolution training images to fixed size training patches by `[generate_patches.py](./generate_patches.py)`.  
 Our experiment setting can refer .  
 
 ## Tree  

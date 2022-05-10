@@ -19,6 +19,11 @@
 - HIDE(test):  
   - [test](https://drive.google.com/drive/folders/1nRsTXj4iTUkTvBhTcGg8cySK8nd3vlhK)  
 
+
+## Preprocess  
+You have to crop the high-resolution training images to fixed size training patches by `.py`.  
+Our experiment setting can refer .  
+
 ## Tree  
   ```
   datasets

@@ -68,6 +68,36 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
     SAVE_DIR: './checkpoints'           # path to save models and images
 
   ```
+  
+- Details of Hyperparameters
+	```
+	-------------------------------------------------
+	GoPro dataset:
+	Training patches: 33648 (2103 x 16)
+	Validation: 1111
+	Initial learning rate: 2e-4
+	Final learning rate: 1e-6
+	Training epochs: 150 (120 is enough)
+  Training time (on single 2080ti): about 10 days
+
+	Raindrop dataset:
+	Training patches: 6888 (861 x 8)
+	Validation: 1228 (307 x 4)
+	Initial learning rate: 2e-4
+	Final learning rate: 1e-6
+	Training epochs: 150
+  Training time (on single 1080ti): about 2.5 days
+  
+	IO-Haze dataset:
+	Training patches: 15000 (75 x 20)
+	Validation: 55
+	Initial learning rate: 1e-4
+	Final learning rate: 1e-6
+	Training epochs: 150 (120 is enough)
+  Training time (on single 1080ti): about 3 days
+	-------------------------------------------------
+	```  
+  
 - Dataset:  
   The preparation of dataset in more detail, see [datasets/README.md](datasets/README.md).  
   
@@ -76,7 +106,7 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
   ```
   python train.py
   ```  
-  
+
 ## Test (Evaluation)  
 To test the models of Deraindrop, Dehaze, Deblurring with ground truth, see the `test.py` and run  
 ```

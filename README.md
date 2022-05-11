@@ -85,7 +85,7 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
 	Validation: 1228 (307 x 4)
 	Initial learning rate: 2e-4
 	Final learning rate: 1e-6
-	Training epochs: 150
+	Training epochs: 150 (100 is enough)
   Training time (on single 1080ti): about 2.5 days
   
 	IO-Haze dataset:
@@ -93,7 +93,7 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
 	Validation: 55
 	Initial learning rate: 1e-4
 	Final learning rate: 1e-6
-	Training epochs: 150 (120 is enough)
+	Training epochs: 150 (50 is enough)
   Training time (on single 1080ti): about 3 days
 	-------------------------------------------------
 	```  

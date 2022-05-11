@@ -89,7 +89,7 @@ To train the restoration models of Deraindrop, Dehaze and Deblurring. You should
   Training time (on single 1080ti): about 2.5 days
   
 	IO-Haze dataset:
-	Training patches: 15000 (75 x 20)
+	Training patches: 15000 (75 x 200)
 	Validation: 55
 	Initial learning rate: 1e-4
 	Final learning rate: 1e-6

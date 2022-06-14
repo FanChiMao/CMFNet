@@ -1,5 +1,6 @@
 # Compound Multi-branch Feature Fusion for Real Image Restoration  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2206.02748v1)  
 
 **Paper**:  https://paperswithcode.com/paper/compound-multi-branch-feature-fusion-for-real  
 

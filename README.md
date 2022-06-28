@@ -26,10 +26,10 @@
 
 
 ## Quick Run  
-You can simply demo on my space of [Hugging Face](https://huggingface.co/52Hz)  
-- [Dehazing](https://huggingface.co/spaces/52Hz/CMFNet_dehazing)  
-- [Deraindrop](https://huggingface.co/spaces/52Hz/CMFNet_deraindrop)  
-- [Deblurring](https://huggingface.co/spaces/52Hz/CMFNet_deblurring)  
+You can simply demo on my space of [**Hugging Face**](https://huggingface.co/52Hz)  
+- [**Dehazing**](https://huggingface.co/spaces/52Hz/CMFNet_dehazing)  
+- [**Deraindrop**](https://huggingface.co/spaces/52Hz/CMFNet_deraindrop)  
+- [**Deblurring**](https://huggingface.co/spaces/52Hz/CMFNet_deblurring)  
 
 Or test on local environment:  
 To test the pre-trained models of Deraindrop, Dehaze, Deblurring on your own images, run

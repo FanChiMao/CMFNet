@@ -162,3 +162,4 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 
 ## Contact
 If you have any question, feel free to contact qaz5517359@gmail.com  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CMFNet_github)  

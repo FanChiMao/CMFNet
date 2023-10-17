@@ -1,4 +1,4 @@
-# [ICIP 2023] Compound Multi-branch Feature Fusion for Real Image Restoration  
+# [ICIP 2023] Compound Multi-branch Feature Fusion for Image Deraindrop  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu   
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2206.02748v1) 
 [![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)]() 

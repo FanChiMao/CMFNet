@@ -1,7 +1,12 @@
 # [ICIP 2023] Compound Multi-branch Feature Fusion for Real Image Restoration  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu   
-[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2206.02748v1)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/CMFNet_deblurring)  
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2206.02748v1) 
+[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)]() 
+[![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/8UCxeuP2A_Q?si=Iid5GiaqqdEBnAZl) 
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/1h4Y2CMxx7j6V72kWG5fD_S9Tzn1Vzguh/edit?usp=drive_link&ouid=108348190349543369603&rtpof=true&sd=true) 
+[![poster](https://img.shields.io/badge/Summary-Poster-9cf)](https://drive.google.com/file/d/1lMF-SqvjlZ4frQI9REfRMRU8n0Tx1b1C/view?usp=sharing) 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/CMFNet_deblurring) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCMFNet&label=visitors&countColor=%232ccce4&style=plastic)  
 
 > Abstract : Image restoration is a challenging and ill-posed problem which also has been a long-standing issue. However, most of learning based restoration methods are proposed to target one degradation type which means they are lack of generalization. In this paper, we proposed a multi-branch restoration model inspired from the Human Visual System (i.e., Retinal Ganglion Cells) which can achieve multiple restoration tasks in a general framework. The experiments show that the proposed multi-branch architecture, called CMFNet, has competitive performance results on four datasets, including image deblurring, dehazing and deraindrop which are very common applications for autonomous cars.
 
@@ -163,4 +168,4 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 ## Contact
 If you have any question, feel free to contact qaz5517359@gmail.com  
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCMFNet&label=visitors&countColor=%232ccce4&style=plastic)  
+

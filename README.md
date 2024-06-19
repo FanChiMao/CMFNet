@@ -163,7 +163,17 @@ And to test the PSNR and SSIM of *Dehaze* and *Deblur*, see the `evaluation_RGB.
 **More visual results can be downloaded at [here](https://github.com/FanChiMao/CMFNet/releases).**  
 
 ## Citation  
+```
+@inproceedings{fan2023compound,
+  title={Compound Multi-Branch Feature Fusion for Image Deraindrop},
+  author={Fan, Chi-Mao and Liu, Tsung-Jung and Liu, Kuan-Hsien},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={3399--3403},
+  year={2023},
+  organization={IEEE}
+}
 
+```
 
 ## Contact
 If you have any question, feel free to contact qaz5517359@gmail.com  

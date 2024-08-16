@@ -1,7 +1,7 @@
 # [ICIP 2023] Compound Multi-branch Feature Fusion for Image Deraindrop  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu   
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2206.02748v1) 
-[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)]() 
+[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/10222907) 
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/8UCxeuP2A_Q?si=Iid5GiaqqdEBnAZl) 
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/1h4Y2CMxx7j6V72kWG5fD_S9Tzn1Vzguh/edit?usp=drive_link&ouid=108348190349543369603&rtpof=true&sd=true) 
 [![poster](https://img.shields.io/badge/Summary-Poster-9cf)](https://drive.google.com/file/d/1lMF-SqvjlZ4frQI9REfRMRU8n0Tx1b1C/view?usp=sharing) 
